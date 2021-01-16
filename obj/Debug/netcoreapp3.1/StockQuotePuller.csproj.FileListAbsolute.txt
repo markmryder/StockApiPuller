@@ -1,0 +1,15 @@
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\bin\Debug\netcoreapp3.1\StockQuotePuller.exe
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\bin\Debug\netcoreapp3.1\StockQuotePuller.deps.json
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\bin\Debug\netcoreapp3.1\StockQuotePuller.runtimeconfig.json
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\bin\Debug\netcoreapp3.1\StockQuotePuller.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\bin\Debug\netcoreapp3.1\StockQuotePuller.dll
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\bin\Debug\netcoreapp3.1\StockQuotePuller.pdb
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.AssemblyInfo.cs
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.csproj.CopyComplete
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.dll
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.pdb
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.genruntimeconfig.cache
+C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.csprojAssemblyReference.cache

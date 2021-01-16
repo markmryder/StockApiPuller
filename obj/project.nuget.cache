@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JMM35oH0IQdizeCf5YfRgUl+elnWFpdmj3ViVbgz1ZhrryswlthyrRhh6drckCgx89bjj9EVGf7aiKGWbtJI+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mark\\source\\repos\\StockQuotePuller\\StockQuotePuller\\StockQuotePuller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

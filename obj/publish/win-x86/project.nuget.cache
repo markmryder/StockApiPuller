@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1Cn89saQirDxWC9VaIw5890MnMmtMVWD4j6slJh1L09UYgyQqWTXdYBp4LJeY3Kc1ueH/Ae6BupkpLDpYWz+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mark\\source\\repos\\StockQuotePuller\\StockQuotePuller\\StockQuotePuller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.8\\microsoft.netcore.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.8.nupkg.sha512",
+    "C:\\Users\\Mark\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x86.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}

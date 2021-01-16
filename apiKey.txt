@@ -1,0 +1,1 @@
+[need to sign up at RapidAPI.com for Yahoo Finance API key and place here]

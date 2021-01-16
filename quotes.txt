@@ -1,0 +1,8 @@
+/*
+Remove this comment before running
+Enter stock symbols in this file, one per line
+Example:
+XIC.TO
+XUH.TO
+etc.
+*/
