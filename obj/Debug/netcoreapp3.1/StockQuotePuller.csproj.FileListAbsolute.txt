@@ -12,4 +12,3 @@ C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreap
 C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.dll
 C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.pdb
 C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.genruntimeconfig.cache
-C:\Users\Mark\source\repos\StockQuotePuller\StockQuotePuller\obj\Debug\netcoreapp3.1\StockQuotePuller.csprojAssemblyReference.cache
